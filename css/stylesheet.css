@@ -18,3 +18,8 @@ body {
 .index {
     font-family: 'Montserrat', sans-serif;
 }
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
