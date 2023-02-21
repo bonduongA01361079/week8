@@ -1,0 +1,20 @@
+#head {
+    background-color: pink;
+}
+
+h1 {
+    color: rgb(0, 0, 128);
+}
+
+body {
+    background-color: pink;
+}
+
+.link {
+    display: block;
+    text-align: center;
+}
+
+.index {
+    font-family: 'Montserrat', sans-serif;
+}
