@@ -15,14 +15,22 @@ body {
     color: rgb(43, 79, 109);
 }
 
-div > main:first-child p {
+.first-paragraph {
     display: flex;
-    align-items: flex-end;
-
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: stretch;
+    height: 440px;
 }
 
 .footer h2 {
     background-color: #add8e6;
     text-align: center;
     font-size: 18px;
+}
+
+div aside > img {
+    width: 400px;
+    height: 400px;
+
 }
